@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Card Number Detector</string>
+    <string name="numCard">Card number</string>
+    <string name="flash">Flash</string>
+    <string name="descCardOcr">Focus your card so we can detect your number</string>
+    <string name="flashOn">Flash On</string>
+    <string name="flashOff">Flash Off</string>
+    <string name="permissonsNot">Not authorize permission</string>
+    <string name="no_camera_permission">This application can not be executed because it does not have the cameras permission. The application will now come out</string>
+    <string name="low_storage_error">OCR dependencies can not be downloaded due to low storage of the devices</string>
+    <string name="read_text">Detect text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read with success</string>
+    <string name="ocr_failure">Not text captured</string>
+    <string name="ocr_error">"Error when reading text: %1$s"</string>
+    <string name="permission_camera_rationale">Access to the camarea is necessary</string>
+    <string name="ok">OK</string>
+    <string name="detecting">Detecting...</string>
+</resources>

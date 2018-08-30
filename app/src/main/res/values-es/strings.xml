@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Card Number Detector</string>
+    <string name="numCard">Numero de Tarjeta</string>
+    <string name="flash">Flash</string>
+    <string name="descCardOcr">Acerca tu tarjeta para que detectemos tu numero</string>
+    <string name="flashOn">Flash Si</string>
+    <string name="flashOff">Flash No</string>
+    <string name="permissonsNot">No autorizaste permiso</string>
+    <string name="no_camera_permission">Esta aplicación no se puede ejecutar porque no tiene el permiso de la cámara. La aplicación ahora saldrá.</string>
+    <string name="low_storage_error">Las dependencias de Ocr no se pueden descargar debido al bajo almacenamiento del dispositivo</string>
+    <string name="read_text">Detectar texto</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Usar Flash</string>
+    <string name="ocr_success">Texto leído con éxito</string>
+    <string name="ocr_failure">Sin texto capturado</string>
+    <string name="ocr_error">"Error al leer el texto: %1$s"</string>
+    <string name="permission_camera_rationale">El acceso a la cámara es necesario para la detección</string>
+    <string name="ok">OK</string>
+    <string name="detecting">Detectando...</string>
+</resources>
