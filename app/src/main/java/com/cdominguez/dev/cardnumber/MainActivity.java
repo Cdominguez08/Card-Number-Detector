@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.cdominguez.dev.cardnumber.ocr.OcrCaptureActivity;
 
@@ -33,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
                 loadOCR();
             }
         });
+
+        Toast.makeText(this,R.string.app_name,Toast.LENGTH_SHORT).show();
     }
 
     private void loadOCR() {
